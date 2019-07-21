@@ -1,0 +1,9 @@
+﻿Save To Prefab: Save To Prefab
+
+// GraphArgument
+GraphArgument.Message.NotFoundParameter: Not found parameter.
+GraphArgument.Message.ChangedParameterType: The parameter type has been changed.
+GraphArgument.Message.ChangedAccessLevel: The access level has been changed.
+GraphArgument.Message.CantAccessPrivateParameter: Private parameters can not be accessed.
+GraphArgument.Message.ChangedReferenceType: The reference type of the parameter has been changed.
+GraphArgument.Message.ChangedVariableType: The type of Variable has been changed.

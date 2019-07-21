@@ -1,0 +1,155 @@
+﻿// URL Settings
+SiteURL:				https://arbor.caitsithware.com/en/
+ArborReferenceURL:		https://arbor-docs.caitsithware.com/en/
+ScriptReferenceURL:		https://caitsithware.com/assets/arbor/scriptreference/en/namespace_arbor.html
+ReleaseNotesURL:		https://arbor.caitsithware.com/en/category/releasenote/
+ForumURL:				https://forum-arbor.caitsithware.com/?language=en
+
+// Graph Label
+StateMachine:			State Machine
+BehaviourTree:			Behaviour Tree
+
+// Context Menu
+Create:					Create
+Create State:			Create State
+Create Resident State:	Create Resident State
+Create Calculator:		Create Calculator
+Create Comment:			Create Comment
+Create Group:			Create Group
+Reroute:				Reroute
+DeleteKeepConnection:	Delete (Keep Connection)
+Cut:					Cut
+Copy:					Copy
+Paste:					Paste
+Duplicate:				Duplicate
+Delete:					Delete
+Go to Previous State:	Go to Previous State
+Go to Next State:		Go to Next State
+Go to Previous Node:	Go to Previous Node
+Go to Next Node:		Go to Next Node
+Go to Parent Node:		Go to Parent Node
+Go to Child Node:		Go to Child Node
+ShowDataValue:			Always show data values
+Expand All:				Expand All
+Collapse All:			Collapse All
+
+// BehaviourTree
+Create Composite:		Create Composite
+Create Action:			Create Action
+Add Decorator:			Add Decorator
+Add Service:			Add Service
+Insert Decorator:		Insert Decorator
+Insert Service:			Insert Service
+Paste Decorator As New:	Paste Decorator As New
+Paste Service As New:	Paste Service As New
+Paste Values:			Paste Values
+Paste Decorator:		Paste Decorator
+Paste Service:			Paste Service
+Replace Composite:		Replace Composite
+Replace Action:			Replace Action
+Disconnect:				Disconnect
+Disconnect All:			Disconnect All
+
+// State
+Start State:			Start State
+Resident State:			Resident State
+State:					State
+Comment:				Comment
+Rename:					Rename
+Show Comment:			Show Comment
+Set Start State:		Set Start State
+Add Behaviour:			Add Behaviour
+Paste Behaviour:		Paste Behaviour
+Insert Behaviour:		Insert Behaviour
+
+// Behaviour
+Move Up:				Move Up
+Move Down:				Move Down
+Edit Script:			Edit Script
+Edit Editor Script:		Edit Editor Script
+
+// SidePanel
+Side Panel:				Side Panel
+Graph:					Graph
+Parameters:				Parameters
+NodeList:				Node List
+
+// Graph Setting
+Language:				Language
+Show Logo:				Show Logo
+Docking Open:			Docking Open
+Zoom:					Zoom
+MouseWheelMode:			Mouse Wheel Mode
+Grid:					Grid
+Show Grid:				Show Grid
+Snap Grid:				Snap Grid
+Grid Size:				Grid Size
+Grid Split Num:			Grid Split Num
+Reset:					Reset
+Version:				Version
+
+// Live Tracking
+Live Tracking:			Live Tracking
+Live Tracking Hierarchy: Live Tracking Hierarchy
+
+// View
+View:					View
+
+// Debug
+Debug:					Debug
+ShowAllDataValuesAlways: Show all data values always
+ShowAllDataValues:		Show all data values
+HideAllDataValues:		Hide all data values
+BreakPoint:				Breakpoint
+Set BreakPoints:		Set Breakpoints
+Release BreakPoints:	Release Breakpoints
+Release all BreakPoints: Release all Breakpoints
+Clear Count:			Clear Count
+Transition:				Transition
+
+// Help Menu
+Help:					Help
+Asset Store:			Asset Store
+Official Site:			Official Site
+Manual:					Manual
+Arbor Reference:		Arbor Reference
+Script Reference:		Script Reference
+Release Notes:			Release Notes
+Forum:					Forum
+
+// Update Check
+Notification:			Notification
+Release:				Release
+Patch:					Patch
+Upgrade:				Upgrade
+Release Note:			Release Note
+
+// Language
+Auto:					Auto
+English:				English
+Japanese:				Japanese
+
+// Messages
+MissingError:			The associated script can not be loaded.\nPlease fix the script.
+DeleteError:			Could not delete "{0}".
+MissingDuplicateError:	Copying failed because related scripts can not be read.
+CalcParameter.NotSupportVariable:	The Variable parameter is not supported.\nTo change the Parameter, create script dedicated to {0}.
+ParameterCondition.NotSupportVariable:	The Variable parameter is not supported.\nTo compare Parameter, create script dedicated to {0}.
+ArborUpdateNotification.UpdateMessage: There is a new version of the Arbor available for download.\n\nCurrently version is {0}\nNew version is {1}
+ArborUpdateNotification.UpToDateMessage: The Arbor is up to data.\n\nCurrently version is {0}
+ArborUpdateNotification.UpgradeMessage: Upgrade version of the Arbor has appeared!\n\nCurrently version is {0}\nNew version is {1}
+NoGraphSelected.Message:		No graph selected.
+NoGraphSelected.CreateButton:	Create\n{0}
+FlexibleField.NotSupportType:	Serialization is not supported.
+DataSlot.NotSupportInspector:		Calculator slots can not be used in other than ArborEditor window.
+ArborEvent.InvalidRepair.ArgumentToRef:	The argument "{0}" has been changed to "ref".
+ArborEvent.InvalidRepair.ArgumentToOut:	The argument "{0}" has been changed to "out".
+ArborEvent.InvalidRepair.ReturnType:	The return type has been changed to "{0}".
+ParameterBehaviours.InvalidSlotType:	The parameter type has been changed to "{0}".
+ParameterBehaviours.NotFoundParameter:	Not found "{0}" parameter.
+Apply:					Apply
+Repair:					Repair
+
+// Others
+Screen Shot:			Screen Shot
+Settings:				Settings
